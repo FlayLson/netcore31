@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginOS.Core.Application.Nancy.Api", "OriginOS.Core.Application.Nancy.Api\OriginOS.Core.Application.Nancy.Api.csproj", "{5F07AA1E-DE3A-4575-9FB9-454B9B3EC79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginOS.Core.21.Application.Nancy.Api", "OriginOS.Core.21.Application.Nancy.Api\OriginOS.Core.21.Application.Nancy.Api.csproj", "{390000CE-4620-4B30-B262-C791DFFAE8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F07AA1E-DE3A-4575-9FB9-454B9B3EC79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F07AA1E-DE3A-4575-9FB9-454B9B3EC79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F07AA1E-DE3A-4575-9FB9-454B9B3EC79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F07AA1E-DE3A-4575-9FB9-454B9B3EC79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390000CE-4620-4B30-B262-C791DFFAE8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390000CE-4620-4B30-B262-C791DFFAE8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390000CE-4620-4B30-B262-C791DFFAE8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390000CE-4620-4B30-B262-C791DFFAE8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0A5901-6F5A-456C-89EE-381EDA33ADC2}
+	EndGlobalSection
+EndGlobal
